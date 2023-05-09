@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "645a1d919892f1f58b7d9cb7"
+  },
+  "user-id": 1,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1d919892f1f58b7d9cb8"
+  },
+  "user-id": 2,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1d919892f1f58b7d9cb9"
+  },
+  "user-id": 3,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1d919892f1f58b7d9cba"
+  },
+  "user-id": 4,
+  "no_of_problems_solved": 40
+},{
+  "_id": {
+    "$oid": "645a1d919892f1f58b7d9cbb"
+  },
+  "user-id": 5,
+  "no_of_problems_solved": 50
+},{
+  "_id": {
+    "$oid": "645a1dcd9892f1f58b7d9cbc"
+  },
+  "user-id": 6,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1dcd9892f1f58b7d9cbd"
+  },
+  "user-id": 7,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1dcd9892f1f58b7d9cbe"
+  },
+  "user-id": 8,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1dcd9892f1f58b7d9cbf"
+  },
+  "user-id": 9,
+  "no_of_problems_solved": 40
+},{
+  "_id": {
+    "$oid": "645a1dcd9892f1f58b7d9cc0"
+  },
+  "user-id": 10,
+  "no_of_problems_solved": 50
+},{
+  "_id": {
+    "$oid": "645a1dfb9892f1f58b7d9cc1"
+  },
+  "user-id": 11,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1dfb9892f1f58b7d9cc2"
+  },
+  "user-id": 12,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1dfb9892f1f58b7d9cc3"
+  },
+  "user-id": 13,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1dfb9892f1f58b7d9cc4"
+  },
+  "user-id": 14,
+  "no_of_problems_solved": 40
+},{
+  "_id": {
+    "$oid": "645a1dfb9892f1f58b7d9cc5"
+  },
+  "user-id": 15,
+  "no_of_problems_solved": 50
+},{
+  "_id": {
+    "$oid": "645a1e249892f1f58b7d9cc6"
+  },
+  "user-id": 16,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1e249892f1f58b7d9cc7"
+  },
+  "user-id": 17,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1e249892f1f58b7d9cc8"
+  },
+  "user-id": 18,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e249892f1f58b7d9cc9"
+  },
+  "user-id": 19,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e249892f1f58b7d9cca"
+  },
+  "user-id": 20,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e469892f1f58b7d9ccb"
+  },
+  "user-id": 21,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1e469892f1f58b7d9ccc"
+  },
+  "user-id": 22,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1e469892f1f58b7d9ccd"
+  },
+  "user-id": 23,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e469892f1f58b7d9cce"
+  },
+  "user-id": 24,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e469892f1f58b7d9ccf"
+  },
+  "user-id": 25,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e659892f1f58b7d9cd0"
+  },
+  "user-id": 26,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1e659892f1f58b7d9cd1"
+  },
+  "user-id": 27,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1e659892f1f58b7d9cd2"
+  },
+  "user-id": 28,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e659892f1f58b7d9cd3"
+  },
+  "user-id": 29,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e659892f1f58b7d9cd4"
+  },
+  "user-id": 30,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e839892f1f58b7d9cd5"
+  },
+  "user-id": 31,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1e839892f1f58b7d9cd6"
+  },
+  "user-id": 32,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1e839892f1f58b7d9cd7"
+  },
+  "user-id": 33,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e839892f1f58b7d9cd8"
+  },
+  "user-id": 34,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1e839892f1f58b7d9cd9"
+  },
+  "user-id": 35,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1ed29892f1f58b7d9cda"
+  },
+  "user-id": 36,
+  "no_of_problems_solved": 10
+},{
+  "_id": {
+    "$oid": "645a1ed29892f1f58b7d9cdb"
+  },
+  "user-id": 37,
+  "no_of_problems_solved": 20
+},{
+  "_id": {
+    "$oid": "645a1ed29892f1f58b7d9cdc"
+  },
+  "user-id": 38,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1ed29892f1f58b7d9cdd"
+  },
+  "user-id": 39,
+  "no_of_problems_solved": 30
+},{
+  "_id": {
+    "$oid": "645a1ed29892f1f58b7d9cde"
+  },
+  "user-id": 40,
+  "no_of_problems_solved": 30
+}]

@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "645a21a29892f1f58b7d9d07"
+  },
+  "topic_id": 1,
+  "topic": "HTML",
+  "topic_date": {
+    "$date": "2021-09-30T18:30:00.000Z"
+  }
+},{
+  "_id": {
+    "$oid": "645a21a29892f1f58b7d9d08"
+  },
+  "topic_id": 2,
+  "topic": "CSS",
+  "topic_date": "Oct 10 2021"
+},{
+  "_id": {
+    "$oid": "645a21a29892f1f58b7d9d09"
+  },
+  "topic_id": 3,
+  "topic": "Javascript",
+  "topic_date": "Oct 15 2021"
+},{
+  "_id": {
+    "$oid": "645a21a29892f1f58b7d9d0a"
+  },
+  "topic_id": 4,
+  "topic": "React",
+  "topic_date": "Oct 20 2021"
+},{
+  "_id": {
+    "$oid": "645a21a29892f1f58b7d9d0b"
+  },
+  "topic_id": 5,
+  "topic": "NodeJs",
+  "topic_date": "Oct 25 2021"
+}]

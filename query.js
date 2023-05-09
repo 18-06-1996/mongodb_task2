@@ -22,4 +22,3 @@ db.attendance.find({"present":false}).count()
 db.task.find({"submitted":false}).count()
 
 
-
